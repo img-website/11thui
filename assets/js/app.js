@@ -1,4 +1,4 @@
-/* Template Name: Hously - Tailwind CSS Real Estate Template
+/* Template Name: 11thUI - Tailwind CSS Real Estate Template
    Author: Shreethemes
    Email: support@shreethemes.in
    Website: https://shreethemes.in

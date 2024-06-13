@@ -1,7 +1,7 @@
 /* Template Name: 11thUI - Tailwind CSS Real Estate Template
-   Author: Shreethemes
-   Email: support@shreethemes.in
-   Website: https://shreethemes.in
+   Author: ElevanthUI
+   Email: support@ElevanthUI.in
+   Website: https://ElevanthUI.in
    Version: 2.0.0
    Created: June 2022
    File Description: Main JS file of the template
